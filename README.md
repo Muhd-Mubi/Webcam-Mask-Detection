@@ -5,6 +5,7 @@ install the trained weighed model .pth file from the link
 https://rip123-my.sharepoint.com/:u:/g/personal/mubi_rip123_onmicrosoft_com/IQB8t_GWRem2RLgRvbKZrg4BAVpuV0nhYWQjV76eXY-9I6U?e=Up8lnG
 file structure
 
+
 Webcam-Mask-Detection
 
 ->  rest of the files from the repo
