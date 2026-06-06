@@ -9,7 +9,7 @@ Webcam-Mask-Detection
 ├─ rest of the files from the repo
 └─ .pth weighed model file
 
-## Installation
+## Installation 
 
 ### Python 3.11
 
